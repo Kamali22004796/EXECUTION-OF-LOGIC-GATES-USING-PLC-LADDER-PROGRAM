@@ -68,7 +68,7 @@ NAND Gate:
 
 NOR Gate:
 
-![image](https://github.com/user-attachments/assets/40fe72bc-2327-466d-b5d8-57d717bb58a7)
+![image](https://github.com/user-attachments/assets/4483c48b-5814-41d2-97e2-99a116ac5c54)
 
 XOR Gate:
 
