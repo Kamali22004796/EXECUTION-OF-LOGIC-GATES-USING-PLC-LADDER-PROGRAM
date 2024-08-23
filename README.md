@@ -107,8 +107,17 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 # SIMULATION RESULTS 
 
+![image](https://github.com/user-attachments/assets/dbe4a61e-c96e-4533-9ede-0108ce4bcf34)
 
-#Results:
+![image](https://github.com/user-attachments/assets/47410d00-aa4c-408e-ab35-c9c0dc64a707)
+
+![image](https://github.com/user-attachments/assets/3359511c-1ac8-4f27-9fcc-880affc3f76e)
+
+![image](https://github.com/user-attachments/assets/9f423530-eb03-408c-8e69-166edb6d7cbd)
+
+![image](https://github.com/user-attachments/assets/805a9579-7953-4d7c-9418-28b7c4eccbcb)
+
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
