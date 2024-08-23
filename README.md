@@ -56,15 +56,18 @@ AND Gate:
 
 OR Gate:
 
-![image](https://github.com/user-attachments/assets/658e1151-0578-44a3-93bc-b274c54bbee2)
+![image](https://github.com/user-attachments/assets/a4a319ed-b3dd-44da-bc43-93000a52b9e6)
+
 
 NOT Gate:
 
-![image](https://github.com/user-attachments/assets/be37b82e-744c-4b41-a898-427ad0f42636)
+![image](https://github.com/user-attachments/assets/b4fd7d35-5d81-4e4f-9fda-6bc8ef6acf0f)
+
 
 NAND Gate:
 
-![image](https://github.com/user-attachments/assets/73fa15ae-0417-4771-a179-a24c47c7d2d7)
+![image](https://github.com/user-attachments/assets/652856a7-0ef2-4ca5-8472-48b9f7a4572c)
+
 
 NOR Gate:
 
