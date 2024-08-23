@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
-
+ # NAME :Kamali E
+ # REGISTER NUMBER :212222110015
+ # DEPARTMENT : cse iot
+ # YEAR : 3
+ # Date: 23.08.2024 
  
 # Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.
@@ -49,7 +49,31 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+
+AND Gate:
+
+![image](https://github.com/user-attachments/assets/f5ca2c25-a785-4f61-83c3-2b8c6a5dd6de)
+
+OR Gate:
+
+![image](https://github.com/user-attachments/assets/658e1151-0578-44a3-93bc-b274c54bbee2)
+
+NOT Gate:
+
+![image](https://github.com/user-attachments/assets/be37b82e-744c-4b41-a898-427ad0f42636)
+
+NAND Gate:
+
+![image](https://github.com/user-attachments/assets/73fa15ae-0417-4771-a179-a24c47c7d2d7)
+
+NOR Gate:
+
+![image](https://github.com/user-attachments/assets/40fe72bc-2327-466d-b5d8-57d717bb58a7)
+
+XOR Gate:
+
+![image](https://github.com/user-attachments/assets/fe825ede-bf08-4cf7-a19f-a3070c190bd7)
+
 # Procedure:
 Setup the PLC Programming Environment:
 
